@@ -91,7 +91,7 @@ export default function Navbar() {
             <div className="flex items-center justify-start flex-1 lg:flex-none">
               <a href="/" className="flex items-center hover:opacity-90 transition-opacity">
                 <Image
-                  src="/lsi_lg2.webp"
+                  src="/lsi_lg.webp"
                   alt="Logo"
                   // width={178}
                   width={150}
