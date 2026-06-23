@@ -12,7 +12,7 @@ const TAB_PRODUCTS = {
       price: 185000,
       originalPrice: 220000,
       category: "Living",
-      image: "/sofa.jpg"
+      image: "/SOFA.jpg"
     },
     {
       id: "tab-new-2",
